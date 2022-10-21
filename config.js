@@ -12,8 +12,8 @@ const CONFIG = {
   question: "Trên thế giới hơn 7 tỉ người mà sao em lại không yêu anh <3",
   btnReply: "Gửi cho emmmmm <3",
   reply: "Chê nhaaaaaaaaa!<33333333",
-  mess: "Anh biết mà 🥰. Anh không xứng đáng có được em nhaaaaa! 😘😘",
+  mess: "Anh biết mà 🥰. Anh không xứng đáng có được emmmmm! 😘😘",
   messDesc: "Anh sẽ né em đến tận cùng thời gian nhé babiii :3",
   btnAccept: "Okiiiii lun <3",
-  messLink: "https://m.me/nen.goi.la.tung", //link mess của các bạn. VD: https://m.me/nam.nodemy
+  messLink: "", //link mess của các bạn. VD: https://m.me/nam.nodemy
 };

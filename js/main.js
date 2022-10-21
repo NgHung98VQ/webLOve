@@ -29,7 +29,7 @@ function firstQuestion() {
     imageHeight: 300,
     margin: 0,
     background: '#fff url("img/iput-bg.jpg")',
-    imageAlt: "Em chê anh nhieu hihi",
+    imageAlt: "Em chê anh nhiềuu hihi",
     confirmButtonText: CONFIG.btnIntro,
   }).then(function () {
     $(".content").show(200);
@@ -126,7 +126,7 @@ $("#yes").click(function () {
         text: CONFIG.messDesc,
         confirmButtonColor: "#83d0c9",
         onClose: () => {
-          window.location = CONFIG.messLink;
+          document.getElementById("bg").style = "background-image:url(../img/k.jpg)"
         },
       });
     }
