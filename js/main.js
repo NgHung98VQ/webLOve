@@ -124,7 +124,7 @@ $("#yes").click(function () {
         text: CONFIG.messDesc,
         confirmButtonColor: "#83d0c9",
         onClose: () => {
-          document.getElementById("bg").style = "background-image:url(../img/k.jpg)"
+          document.getElementById("bg").style = "background-image:url(../img/k.jpg);"
         },
       });
     }
